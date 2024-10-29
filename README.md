@@ -5,6 +5,7 @@ To build the project following software needs to be installed:
 * Sbt 1.9.2
 * Docker
 
+
 ## Building a docker image
 To build the docker image please run following command
 ```
